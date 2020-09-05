@@ -1,0 +1,1 @@
+. $(brew env source-file)

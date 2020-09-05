@@ -1,0 +1,2 @@
+echo "Doing PKG_CONFIG path stuff for salvas cargo build"
+export PKG_CONFIG_PATH=$(dpkg -L libasound2-dev |grep pkgconfig|head -n 1):$(dpkg -L x11proto-dev|grep pkgconfig|head -n 1):/snap/gnome-3-34-1804/36/usr/lib/x86_64-linux-gnu/pkgconfig/;

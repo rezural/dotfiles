@@ -1,0 +1,10 @@
+tap "homebrew/bundle"
+tap "homebrew/core"
+tap "nhemsley/env", "https://github.com/nhemsley/homebrew-env.git"
+#tap "thoughtbot/formulae"
+
+#brew "nhemsley/env/homebrew-env"
+#brew "ruby-build"
+#brew "rbenv"
+#brew "rbenv-gemset"
+#brew "rcm"
