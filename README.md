@@ -1,7 +1,7 @@
 # Install 
 
 ```sh
-wget https://raw.githubusercontent.com/rezural/dotfiles/master/script/install.sh
+wget https://raw.githubusercontent.com/rezural/dotfiles/main/script/install.sh
 bash install.sh
   
 ```
