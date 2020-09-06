@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 sudo apt install -y git curl
 
-[ -d ~/.dotfiles ] || git clone https://github.com/nhemsley/dotfiles.git ~/.dotfiles
+[ -d ~/.dotfiles ] || git clone https://github.com/rezural/dotfiles.git ~/.dotfiles
 
 DOTFILES_ROOT=~/.dotfiles
 DOTFILES_CONFIG=$DOTFILES_ROOT/config
