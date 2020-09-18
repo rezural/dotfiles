@@ -1,1 +1,1 @@
-eval "$(zoxide init bash)"
+[[ $(which zoxide) ]] && eval "$(zoxide init bash)"
