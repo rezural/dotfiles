@@ -15,3 +15,5 @@ alias gdiff='git diff'
 alias gd='git diff'
 
 alias redobash='source ~/.bashrc'
+
+alias e=z

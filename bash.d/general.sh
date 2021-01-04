@@ -10,6 +10,7 @@ bind 'set completion-ignore-case on'
 gsettings set org.gnome.desktop.input-sources xkb-options "['ctrl:swap_lalt_lctl']"
 dconf write /org/gnome/mutter/workspaces-only-on-primary false
 
+
 export CLICOLOR=1
 
 copy_public_key() {
