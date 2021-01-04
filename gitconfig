@@ -1,3 +1,7 @@
-[user]
-	email = rezural@protonmail.com
-	name = rezural
+	
+[include]
+    path = .gitconfig.d/general
+
+[include]
+    path = .gitconfig.d/aliases
+
